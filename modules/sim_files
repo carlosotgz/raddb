@@ -1,0 +1,3 @@
+sim_files {
+	simtriplets = "/usr/local/etc/raddb/simtriplets.dat"
+}

@@ -1,0 +1,6 @@
+User-Name = "angi"
+User-Password = "merlin"
+NAS-Identifier = "VE-CCS-CSI-CC-12Hx31D"
+Called-Station-Id = "00:0C:42:0A:0D:41"
+Calling-Station-Id = "CC-C3-EA-F4-50-41"
+Message-Authenticator = "0x00"
