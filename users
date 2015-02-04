@@ -1,5 +1,3 @@
-#blablabla
-
 #DEFAULT		Called-Station-Id =~ ^00:0C:42:([A-Fa-f0-9:]{8})$
 #	Idle-Timeout:= 180,
 #	Port-Limit := 1,
